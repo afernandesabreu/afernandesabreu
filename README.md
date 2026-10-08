@@ -1,6 +1,10 @@
+## Course Badges
+### From Cisco
+[![Linux Unhatched](/assets/img/linux-unhatched.png)](https://www.credly.com/badges/2f51415b-53bc-4a0e-94dd-a60cf2a44c44/public_url) &nbsp;
+[![Digital Safety and Security Awareness](/assets/img/digital-safety-and-security-awareness.png)](https://www.credly.com/badges/1250353c-a6a4-4c89-ad0c-e15d8f2a3dcf/public_url)
+<!--
 ## Hi there 👋
 
-<!--
 **afernandesabreu/afernandesabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
