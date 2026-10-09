@@ -1,7 +1,7 @@
 # 🎓 Academic Background
-- **Postgraduate Specialization in Computer Networks** (Universidade Tecnológica Federal do Paraná)  
+- **Postgraduate Specialization in Computer Networks** (Universidade Tecnológica Federal do Paraná, Brazil)  
   *2026 – Present*
-- **Bachelor's Degree in Systems Information** (PUC Minas)  
+- **Bachelor's Degree in Systems Information** (Pontifícia Universidade Católica de Minas Gerais, Brazil)  
   *2022 – 2025*
 # 🏅 Badges
 ## Course Badges
