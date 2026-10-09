@@ -1,7 +1,13 @@
+# 🎓 Academic Background
+- **Postgraduate Specialization in Computer Networks** (Universidade Tecnológica Federal do Paraná)  
+  *2026 – Present*
+- **Bachelor's Degree in Systems Information** (PUC Minas)  
+  *2022 – 2025*
+# 🏅 Badges
 ## Course Badges
 ### From Cisco
-[![Linux Unhatched](/assets/img/linux-unhatched.png)](https://www.credly.com/badges/2f51415b-53bc-4a0e-94dd-a60cf2a44c44/public_url) &nbsp;
-[![Digital Safety and Security Awareness](/assets/img/digital-safety-and-security-awareness.png)](https://www.credly.com/badges/1250353c-a6a4-4c89-ad0c-e15d8f2a3dcf/public_url)
+[![Linux Unhatched](assets/img/linux-unhatched.png)](https://www.credly.com/badges/2f51415b-53bc-4a0e-94dd-a60cf2a44c44/public_url) &nbsp;
+[![Digital Safety and Security Awareness](assets/img/digital-safety-and-security-awareness.png)](https://www.credly.com/badges/1250353c-a6a4-4c89-ad0c-e15d8f2a3dcf/public_url)
 <!--
 ## Hi there 👋
 
