@@ -41,6 +41,7 @@ Coming soon...
 ## Course Badges
 ### From Cisco
 [![English for IT: People and Quantities](assets/img/english-for-it-people-and-quantities.png)](https://www.credly.com/badges/3cfda9fa-6a65-4462-a932-28176dcd3d65/public_url)
+[![English for IT: Needs and Responsibilities](assets/img/english-for-it-needs-and-responsibilities.png)](https://www.credly.com/badges/66ec3c46-5d08-4ebd-97ef-74f8b02c5c6e/public_url)
 [![Digital Safety and Security Awareness](assets/img/digital-safety-and-security-awareness.png)](https://www.credly.com/badges/1250353c-a6a4-4c89-ad0c-e15d8f2a3dcf/public_url)
 [![Linux Unhatched](assets/img/linux-unhatched.png)](https://www.credly.com/badges/2f51415b-53bc-4a0e-94dd-a60cf2a44c44/public_url) &nbsp;
 <!--
